@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.c85e8e50.css",
-    "main.js": "./static/js/main.39f4d5fc.js",
+    "main.css": "./static/css/main.63f0e8df.css",
+    "main.js": "./static/js/main.53530724.js",
     "static/media/centropop.png": "./static/media/centropop.6cdb5381b5f8bd7eab6b.png",
     "index.html": "./index.html",
-    "main.c85e8e50.css.map": "./static/css/main.c85e8e50.css.map",
-    "main.39f4d5fc.js.map": "./static/js/main.39f4d5fc.js.map"
+    "main.63f0e8df.css.map": "./static/css/main.63f0e8df.css.map",
+    "main.53530724.js.map": "./static/js/main.53530724.js.map"
   },
   "entrypoints": [
-    "static/css/main.c85e8e50.css",
-    "static/js/main.39f4d5fc.js"
+    "static/css/main.63f0e8df.css",
+    "static/js/main.53530724.js"
   ]
 }
